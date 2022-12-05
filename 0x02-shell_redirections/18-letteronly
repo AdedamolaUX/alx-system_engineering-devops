@@ -1,2 +1,2 @@
 #!/bin/bash
-ls [:alpha:]
+cat /etc/ssh/sshd_config [:alpha:]
